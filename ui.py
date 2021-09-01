@@ -1,3 +1,8 @@
+"""
+Módulo que faz a interface com o usuário
+"""
+
+
 from jogo_velha import *
 from constantes import *
 from termcolor import colored

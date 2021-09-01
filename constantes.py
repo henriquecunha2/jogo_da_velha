@@ -1,3 +1,7 @@
+"""
+Módulo que contém as constantes usadas no jogo
+"""
+
 TAM_TAB = 3
 CASA_VAZIA = " "
 ESPACO_3 = 3*CASA_VAZIA
